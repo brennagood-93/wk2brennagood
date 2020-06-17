@@ -1,0 +1,66 @@
+
+@media screen and (max-width: 640px) {
+
+    .navbar-brand {
+        width: 100%;
+        text-align: center;
+        margin-right: 0px;
+        
+    
+    }
+  .navbar-nav {
+        margin: 0 auto;
+  }
+}
+
+.nav-link {
+        margin: 0 5px;
+}
+
+.navbar-brand {
+    background-color: cadetblue;
+
+}
+
+img {
+    width: 300px;
+}
+
+h1 {
+    color: cadetblue;
+}
+
+#exampleInputMessage1 {
+    height: 300px;
+}
+
+.imageText {
+    position: relative;
+    bottom: 7px;
+    margin: 0 auto;
+    background-color: cadetblue;
+}
+.imageSpace {
+    width: 500px;
+    height: 600px;
+    background-position: left;
+}
+.navbar-brand {
+    padding: 18px 16px;
+}
+.navbar {
+    padding: 0px;
+}
+.container {
+    background-color: #ffffff;
+    margin-bottom: 100px;
+}
+.footer {
+    width: 100%;
+    padding: 10px 0;
+    text-align: center;
+    background-color: #999999;
+    border-top: 5px cadetblue;
+    position: fixed;
+    bottom: 0;
+}
